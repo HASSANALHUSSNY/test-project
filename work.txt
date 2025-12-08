@@ -1,8 +1,5 @@
 create page 
 create room create building 
-create page home 
-
-create page web view 
-
+create page home  
 create page video 
 create dashboard
